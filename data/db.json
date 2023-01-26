@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "play football",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "play handball",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "play basketball",
+      "completed": true
+    }
+  ]
+}
